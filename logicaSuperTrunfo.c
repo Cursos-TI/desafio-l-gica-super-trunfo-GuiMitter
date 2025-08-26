@@ -265,16 +265,15 @@ int main()
     case 2:
         if (area_km_quadrado1 > area_km_quadrado2)
         {
-            printf("Carta 1 País: %s - Carta 2 País: %s\n",nome_cidade1, nome_cidade2);
+            printf("Carta 1 País: %s - Carta 2 País: %s\n", nome_cidade1, nome_cidade2);
             printf("atributo usado como comparação: Area\n");
             printf("Area carta 1 : %d\n", area_km_quadrado1);
             printf("area carta 2 : %d\n", area_km_quadrado2);
             printf("Carta 1 Venceu");
-
         }
         else if (area_km_quadrado1 < area_km_quadrado2)
         {
-            printf("Carta 1 País: %s - Carta 2 País: %s\n",nome_cidade1, nome_cidade2);
+            printf("Carta 1 País: %s - Carta 2 País: %s\n", nome_cidade1, nome_cidade2);
             printf("atributo usado como comparação: Area\n");
             printf("Area carta 1 : %d\n", area_km_quadrado1);
             printf("area carta 2 : %d\n", area_km_quadrado2);
@@ -282,7 +281,7 @@ int main()
         }
         else
         {
-            printf("Carta 1 País: %s - Carta 2 País: %s\n",nome_cidade1, nome_cidade2);
+            printf("Carta 1 País: %s - Carta 2 País: %s\n", nome_cidade1, nome_cidade2);
             printf("atributo usado como comparação: Area\n");
             printf("Area carta 1 : %d\n", area_km_quadrado1);
             printf("area carta 2 : %d\n", area_km_quadrado2);
@@ -293,7 +292,7 @@ int main()
     case 3:
         if (pib1 > pib2)
         {
-            printf("Carta 1 País: %s - Carta 2 País: %s\n",nome_cidade1, nome_cidade2);
+            printf("Carta 1 País: %s - Carta 2 País: %s\n", nome_cidade1, nome_cidade2);
             printf("atributo usado como comparação: PIB\n");
             printf("PIB carta 1 : %d\n", pib1);
             printf("PIB carta 2 : %d\n", pib2);
@@ -301,7 +300,7 @@ int main()
         }
         else if (pib1 < pib2)
         {
-            printf("Carta 1 País: %s - Carta 2 País: %s\n",nome_cidade1, nome_cidade2);
+            printf("Carta 1 País: %s - Carta 2 País: %s\n", nome_cidade1, nome_cidade2);
             printf("atributo usado como comparação: PIB\n");
             printf("PIB carta 1 : %d\n", pib1);
             printf("PIB carta 2 : %d\n", pib2);
@@ -309,7 +308,7 @@ int main()
         }
         else
         {
-            printf("Carta 1 País: %s - Carta 2 País: %s\n",nome_cidade1, nome_cidade2);
+            printf("Carta 1 País: %s - Carta 2 País: %s\n", nome_cidade1, nome_cidade2);
             printf("atributo usado como comparação: PIB\n");
             printf("PIB carta 1 : %d\n", pib1);
             printf("PIB carta 2 : %d\n", pib2);
@@ -320,7 +319,7 @@ int main()
     case 4:
         if (numero_pontos_turisticos1 > numero_pontos_turisticos2)
         {
-            printf("Carta 1 País: %s - Carta 2 País: %s\n",nome_cidade1, nome_cidade2);
+            printf("Carta 1 País: %s - Carta 2 País: %s\n", nome_cidade1, nome_cidade2);
             printf("atributo usado como comparação: Número de pontos Turisticos\n");
             printf("Número de pontos Turisticos carta 1 : %d\n", numero_pontos_turisticos1);
             printf("Número de pontos Turisticos carta 2 : %d\n", numero_pontos_turisticos2);
@@ -328,7 +327,7 @@ int main()
         }
         else if (numero_pontos_turisticos1 < numero_pontos_turisticos2)
         {
-            printf("Carta 1 País: %s - Carta 2 País: %s\n",nome_cidade1, nome_cidade2);
+            printf("Carta 1 País: %s - Carta 2 País: %s\n", nome_cidade1, nome_cidade2);
             printf("atributo usado como comparação: Número de pontos Turisticos\n");
             printf("Número de pontos Turisticos carta 1 : %d\n", numero_pontos_turisticos1);
             printf("Número de pontos Turisticos carta 2 : %d\n", numero_pontos_turisticos2);
@@ -336,7 +335,7 @@ int main()
         }
         else
         {
-            printf("Carta 1 País: %s - Carta 2 País: %s\n",nome_cidade1, nome_cidade2);
+            printf("Carta 1 País: %s - Carta 2 País: %s\n", nome_cidade1, nome_cidade2);
             printf("atributo usado como comparação: Número de pontos Turisticos\n");
             printf("Número de pontos Turisticos carta 1 : %d\n", numero_pontos_turisticos1);
             printf("Número de pontos Turisticos carta 2 : %d\n", numero_pontos_turisticos2);
@@ -347,7 +346,7 @@ int main()
     case 5:
         if (densidade_populacional1 < densidade_populacional2)
         {
-            printf("Carta 1 País: %s - Carta 2 País: %s\n",nome_cidade1, nome_cidade2);
+            printf("Carta 1 País: %s - Carta 2 País: %s\n", nome_cidade1, nome_cidade2);
             printf("atributo usado como comparação: Densidade demográfica\n");
             printf("Densidade demográfica carta 1 : %d\n", densidade_populacional1);
             printf("Densidade demográfica carta 2 : %d\n", densidade_populacional2);
@@ -355,7 +354,7 @@ int main()
         }
         else if (densidade_populacional1 > densidade_populacional2)
         {
-            printf("Carta 1 País: %s - Carta 2 País: %s\n",nome_cidade1, nome_cidade2);
+            printf("Carta 1 País: %s - Carta 2 País: %s\n", nome_cidade1, nome_cidade2);
             printf("atributo usado como comparação: Densidade demográfica\n");
             printf("Densidade demográfica carta 1 : %d\n", densidade_populacional1);
             printf("Densidade demográfica carta 2 : %d\n", densidade_populacional2);
@@ -363,7 +362,7 @@ int main()
         }
         else
         {
-            printf("Carta 1 País: %s - Carta 2 País: %s\n",nome_cidade1, nome_cidade2);
+            printf("Carta 1 País: %s - Carta 2 País: %s\n", nome_cidade1, nome_cidade2);
             printf("atributo usado como comparação: Densidade demográfica\n");
             printf("Densidade demográfica carta 1 : %d\n", densidade_populacional1);
             printf("Densidade demográfica carta 2 : %d\n", densidade_populacional2);
@@ -373,6 +372,7 @@ int main()
         break;
 
     default:
+        printf("Opção não valida");
         break;
     }
 
